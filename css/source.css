@@ -1,0 +1,69 @@
+body
+{
+	margin:0px;
+	background-image:url("../img/FARM2.jpg");
+	filter:alpha(opacity=60);
+	background-size:cover;
+}
+pre{
+	text-align:center;
+	font-family:Georgia;
+	color:black;
+	font-size:20px
+}
+#S1
+{
+	list-style-type:none;
+	background-color:lightgreen;
+	margin:0px;
+	color:white;
+	font-family:Georgia;
+	font-size:20px;
+	text-align:center;
+	padding:10px;
+}
+
+.S2
+{
+	display:inline;
+	text-align:center;
+	margin:auto;
+	margin-right:15px;
+}
+
+a 
+{
+	text-decoration:none;
+}
+a:link
+{
+	color:white;
+	
+}
+a:hover
+{
+	color:lightgreen;
+	background-color:white;
+	text-decoration:none;
+	width:100%;
+	padding:10px;
+}
+a:visited
+{
+	color:black;
+}
+a:active
+{
+	
+}
+footer
+{
+	background-color:lightgreen;
+	color:black;
+	padding:10px;
+	font-size:20px;
+	font-family:Georgia;
+	text-align:center;
+	margin-top:550px;
+	
+}
